@@ -155,13 +155,13 @@ else: ?>
                         <input type="phone" class="form-control" id="Phone" name="Sender[phone]" placeholder="+XX (XX) XXXX-XXXX">
                     </div>
                     <div class="form-group">
-                        <label for="Mobile">Cellular</label>
-                        <input type="phone" class="form-control" id="Mobile" name="Sender[mobile]" placeholder="+XX (XX) XXXXX-XXXX">
+                        <label for="Mobile">Skype</label>
+                        <input type="phone" class="form-control" id="Mobile" name="Sender[mobile]" placeholder="Skype">
                     </div>
-                    <div class="form-group">
+                    <!--<div class="form-group">
                         <label for="Website">Display website</label>
                         <input type="checkbox" class="form-control" id="Website" name="Sender[website]">
-                    </div>
+                    </div>-->
 
                     <button id="preview" type="submit" class="btn btn-default">Preview</button>
                     <button id="download" class="btn btn-default">Download</button>
