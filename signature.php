@@ -142,6 +142,10 @@ else: ?>
                         <label for="Name">Name</label>
                         <input type="text" class="form-control" id="Name" name="Sender[name]" placeholder="Enter your name">
                     </div>
+                     <div class="form-group">
+                        <label for="Name">Designation</label>
+                        <input type="text" class="form-control" id="Name" name="Sender[designation]" placeholder="Enter your Designation">
+                    </div>
                     <div class="form-group">
                         <label for="Email">Email</label>
                         <input type="email" class="form-control" id="Email" name="Sender[email]" placeholder="Enter your email">
